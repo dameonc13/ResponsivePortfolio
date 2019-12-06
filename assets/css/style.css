@@ -169,7 +169,7 @@ h2{
 
 @media screen and (min-width: 980px) {
 
-
+    
 .main-section{
     width: 600px;
     height : 500px;
@@ -178,12 +178,13 @@ h2{
     
 }
 
+.sect{
 
-.sec980{
-
-    height: 650px;
+    height: 620px;
     
 }
+
+
 
 
 .text-block {
