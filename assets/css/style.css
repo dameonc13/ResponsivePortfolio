@@ -1,4 +1,3 @@
-/* General styling for all screens*/
 html , body {
     height: 100%;
     margin: 0;
@@ -12,7 +11,7 @@ footer
     
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
-
+/* General styling for all screens*/
 
 body{
     background-image:  url(../images/paisley.png);
@@ -158,13 +157,9 @@ h2{
         height: 100%;
         width: 100%;
     }
-    
-    
-    
-    
+
     
     }
-
 
 
 
