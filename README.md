@@ -6,7 +6,7 @@ new website of projects i have worked on or adding new styles and customization 
 
 with links to each page and the my name in the header. 
 
-The about page in the body contains an image and short poem that was started based on the picture, which is something i like to do in my spare time. It's something interesting about me you can 
+The about page in the body contains an profile image and short funny poem, which is something I like to do in my spare time. It's something interesting about me you can 
 
 say. 
 
