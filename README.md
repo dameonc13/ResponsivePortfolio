@@ -1,15 +1,21 @@
 # ResponsivePortfolio
 
-This is my personal portfolio created to go along with my coding process. As I continue to learn and improve on coding I will making necessary update to the website. Updates such as links to
 
-new website of projects i have worked on or adding new styles and customization the website itself. There are three html page an About, Contact and Portfolio page.  They all have same header
+# Description
 
-with links to each page and the my name in the header. 
+This is my personal portfolio created to go along with my coding process. As I continue to learn and improve on coding I will making necessary update to the website.
 
-The about page in the body contains an profile image and short funny poem, which is something I like to do in my spare time. It's something interesting about me you can 
+ Updates such as links to new website of projects i have worked on or adding new styles and customization to the website itself. The design of the website may also change along the way. 
 
-say. 
 
-The contact page has a form for people to submit their contact info with a brief message if necessary. 
 
-The portfolio page has links to different website of projects i have worked on so far. 
+
+# Tech Used
+
+ Html
+ Css 
+
+
+# Live Deployment 
+
+https://dameonc13.github.io/ResponsivePortfolio/
