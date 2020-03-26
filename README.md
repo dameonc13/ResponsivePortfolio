@@ -13,9 +13,10 @@ This is my personal portfolio created to go along with my coding process. As I c
 # Tech Used
 
  Html
+ 
  Css 
 
 
-# Live Deployment 
+# Live Demo
 
 https://dameonc13.github.io/ResponsivePortfolio/

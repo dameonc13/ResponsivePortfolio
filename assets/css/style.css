@@ -1,3 +1,4 @@
+
 html , body {
     height: 100%;
     margin: 0;
@@ -142,7 +143,6 @@ header{
         transform:rotate(15deg);
       }
       
-
      .angle {
         width:110%;
         top:-20%;
@@ -183,22 +183,8 @@ header{
 }
 
 .card:hover {
-    animation: shake ;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  display: inline-block;
-  animation: wiggle 2.5s infinite;
 }
-
-
-@keyframes wiggle {
-    0% { transform: rotate(0deg); }
-   80% { transform: rotate(0deg); }
-   85% { transform: rotate(5deg); }
-   95% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
-}
-
-
 
 
 
@@ -271,4 +257,3 @@ header{
 
     
 } 
-
